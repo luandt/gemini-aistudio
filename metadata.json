@@ -1,0 +1,5 @@
+{
+  "name": "DeFi Data Claimer",
+  "description": "An attractive and intuitive interface for users to fetch and claim their lending and borrowing data from Aave and Compound protocols across different networks, with an AI-powered analysis of their on-chain activity.",
+  "requestFramePermissions": []
+}
